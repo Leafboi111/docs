@@ -12,6 +12,8 @@ echo "nodetyp: A simple typing game"
 echo "OneStrikeAndYoureOut: A very difficult quiz game"
 echo "lynx: A terminal web browser"
 
+echo "List of repos: https://github.com/Leafboi111"
+
 echo
 echo "Press enter to close: "
 read delay
