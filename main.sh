@@ -1,3 +1,5 @@
+clear
+
 echo "2048: A bash implementation of 2048"
 echo "snake: A python implementation of snake"
 echo "tetris: A bash implementation of tetris"
@@ -9,6 +11,7 @@ echo "nodetxt: A simple text editor and file browser"
 echo "nodetyp: A simple typing game"
 echo "OneStrikeAndYoureOut: A very difficult quiz game"
 echo "lynx: A terminal web browser"
+
 echo
 echo "Press enter to close: "
 read delay
