@@ -14,6 +14,7 @@ echo "lynx: A terminal web browser"
 
 echo "List of repos: https://github.com/Leafboi111"
 
+echo
 echo "Credits:"
 echo "@AwesomePotatoLXS for inspiring this OS(mostly out of the crappy mistakes of the inspiror)."
 echo "@Vargskelethor for the app One Strike And You're Out!"
