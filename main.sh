@@ -12,13 +12,14 @@ echo "nodetyp: A simple typing game"
 echo "OneStrikeAndYoureOut: A very difficult quiz game"
 echo "lynx: A terminal web browser"
 
+echo
 echo "List of repos: https://github.com/Leafboi111"
 
 echo
 echo "Credits:"
 echo "@AwesomePotatoLXS for inspiring this OS(mostly out of the crappy mistakes of the inspiror)."
 echo "@Vargskelethor for the app One Strike And You're Out!"
-echo "@leaderboard for inspiring nodetyp."
+echo "@leaderboard for inspiring nodetyp and being the new member to add more fuel to the fire."
 echo "@alricee for helping fill in the holes and keeping this project moving."
 
 echo
